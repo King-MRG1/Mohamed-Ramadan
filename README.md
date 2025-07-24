@@ -18,7 +18,6 @@ I'm a 19-year-old back-end developer passionate about building scalable web appl
 ### 🚀 Goals
 
 - Deepen my skills in C# and ASP.NET Core
-- Build real-world ERP and business-oriented systems
 - Learn full-stack development and dive into game dev later on
 
 ---
@@ -34,13 +33,13 @@ I'm a 19-year-old back-end developer passionate about building scalable web appl
 
 ### 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/) *(insert your LinkedIn URL)*
-- 📧 mohamed.ramadan@email.com *(replace with your email)*
-- 🌍 [Portfolio / Website](https://yourwebsite.com) *(if you have one)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-ramadan-1mrg)
+- 📧 MohamedRamdan2241@outlook.com 
+- 🌍 [Portfolio / Website](https://yourwebsite.com) 
 
 ---
 
-### 📈 GitHub Stats (optional)
+### 📈 GitHub Stats
 
 ![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=King-MRG1&show_icons=true&theme=radical)
 
