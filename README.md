@@ -42,7 +42,7 @@ I'm a 19-year-old back-end developer passionate about building scalable web appl
 
 ### 📈 GitHub Stats (optional)
 
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=King-MRG1&show_icons=true&theme=radical)
 
 ---
 
